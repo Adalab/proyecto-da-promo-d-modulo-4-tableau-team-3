@@ -90,21 +90,26 @@ The analysis is presented through an interactive dashboard in Tableau, composed 
   
 ## 🔍 Main Conclusions:
 
-**Conclusion 1: Crimes in Spain
+**Conclusion 1: Crimes in Spain**
 
 *In the year 2020, a general reduction in the number of crimes registered in Spain was observed.
+
 ***Andalusia** is identified as the Autonomous Community with the highest crime rate.
+
 ***Ceuta and Melilla** present the lowest crime rates among the autonomous cities.
 
-**Conclusion 2: Crimes Men VS Women
+**Conclusion 2: Crimes Men VS Women**
 
 *The data suggests a marked difference in the commission of crimes by sex, with approximately **80%** of crimes committed by men compared to **20%** by women.
+
 *A peak in the percentage of crimes committed is identified in the year **2022**.
+
 ***The Community of Madrid** stands out for having the highest percentage of women involved in the commission of crimes compared to men, in relation to other communities.
 
-**Conclusion 3: Crimes by Type
+**Conclusion 3: Crimes by Type**
 
 *The year 2020 recorded a general decrease in the commission of crimes, followed by a rebound after the pandemic.
+
 *A specific temporal analysis reveals that, during the pandemic year, a slight increase was observed in the crimes of Murder and Homicide, while crimes against property, against collective security, and against sexual freedom decreased.
 
 ## 🤝 Our Team:

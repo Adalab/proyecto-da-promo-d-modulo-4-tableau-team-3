@@ -8,10 +8,10 @@ En el complejo panorama social actual, la **comprensión y el análisis de los p
 En este proyecto, exploramos, transformamos y visualizamos datos oficiales, buscando patrones y tendencias significativas para ofrecer conclusiones relevantes sobre la criminalidad en España.
 
 📂 Estructura del Proyecto:
-.
+
 ├── Delitos en España.twbx
 ├── Delitos según el sexo.csv
-└── Delitos según el tipo.csv
+├── Delitos según el tipo.csv
 └── README.md
 
 ## ⚙️ Herramientas Utilizadas:
@@ -62,10 +62,10 @@ In today's complex social landscape, understanding and analyzing crime patterns 
 In this project, we explore, transform, and visualize official data, seeking significant patterns and trends to offer relevant conclusions about criminality in Spain.
 
 📂 Project Structure:
-.
+
 ├── Delitos en España.twbx
 ├── Delitos según el sexo.csv
-└── Delitos según el tipo.csv
+├── Delitos según el tipo.csv
 └── README.md
 
 ## ⚙️ Tools Used:

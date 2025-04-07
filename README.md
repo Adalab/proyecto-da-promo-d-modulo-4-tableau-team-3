@@ -74,8 +74,6 @@ In this project, we explore, transform, and visualize official data, seeking sig
 └── README.md
 ```
 
-He alineado los elementos para que sea más fácil de leer. ¿Te gustaría que aplicara algún otro tipo de formato o que incluyera alguna descripción adicional para cada archivo? 😊
-
 ## ⚙️ Tools Used:
 Tableau
 

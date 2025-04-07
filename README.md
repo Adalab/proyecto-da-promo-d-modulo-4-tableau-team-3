@@ -74,11 +74,11 @@ Tableau
 ## 🚀 Analysis Exploration:
 The analysis is presented through an interactive dashboard in Tableau, composed of the following sheets:
 
-* **Delitos en España (Crime in Spain - distribution of crimes by Autonomous Community and sex): Offers a general overview of the distribution of crimes across the Spanish territory, allowing filtering by Autonomous Community and sex.
-* **Delitos por sexo (Crimes by sex): Explores in detail the number of crimes committed by sex at a national level, the distribution by sex in each Autonomous Community, and the evolution of crimes by sex over time.
-* **Delitos por tipo (Crimes by type): Analyzes the evolution of different types of crimes over the years, allowing the identification of trends and changes in crime typology.
-* **Delitos 2020 (Crimes 2020): Focuses on the specific analysis of the year 2020, marked by the pandemic, showing the evolution of various types of crimes and highlighting those with significant changes (growth in Homicide and decrease in crimes against property, collective security, and sexual freedom, respectively).
-* **Conclusiones (Conclusions): Presents a summary of the main findings extracted from the visual analysis.
+* **Delitos en España (Crime in Spain - distribution of crimes by Autonomous Community and sex)**: Offers a general overview of the distribution of crimes across the Spanish territory, allowing filtering by Autonomous Community and sex.
+* **Delitos por sexo (Crimes by sex)**: Explores in detail the number of crimes committed by sex at a national level, the distribution by sex in each Autonomous Community, and the evolution of crimes by sex over time.
+* **Delitos por tipo (Crimes by type)**: Analyzes the evolution of different types of crimes over the years, allowing the identification of trends and changes in crime typology.
+* **Delitos 2020 (Crimes 2020)**: Focuses on the specific analysis of the year 2020, marked by the pandemic, showing the evolution of various types of crimes and highlighting those with significant changes (growth in Homicide and decrease in crimes against property, collective security, and sexual freedom, respectively).
+* **Conclusiones (Conclusions)**: Presents a summary of the main findings extracted from the visual analysis.
   
 ## 🔍 Main Conclusions:
 

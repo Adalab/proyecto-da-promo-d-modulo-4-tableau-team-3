@@ -16,8 +16,6 @@ En este proyecto, exploramos, transformamos y visualizamos datos oficiales, busc
 └── README.md
 ```
 
-He alineado los elementos para que sea más fácil de leer. ¿Te gustaría que aplicara algún otro tipo de formato o que incluyera alguna descripción adicional para cada archivo? 😊
-
 ## ⚙️ Herramientas Utilizadas:
 
 Tableau

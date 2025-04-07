@@ -5,14 +5,18 @@ En el complejo panorama social actual, la **comprensión y el análisis de los p
 
 🎯 **Nuestro objetivo:** Proporcionar una visión clara y detallada de la situación delictiva en España, diferenciando por tipo de delito, sexo y ubicación geográfica, con el fin de apoyar la toma de decisiones informadas en la prevención y lucha contra la delincuencia.
 
-En este proyecto, exploramos, transformamos y visualizamos datos oficiales, buscando patrones y tendencias significativas para ofrecer conclusiones relevantes sobre la criminalidad en España.
+En este proyecto, exploramos, transformamos y visualizamos datos oficiales, buscando patrones y tendencias significativas para ofrecer conclusiones relevantes sobre la criminalidad en España
 
+```
 📂 Estructura del Proyecto:
 
 ├── Delitos en España.twbx
 ├── Delitos según el sexo.csv
 ├── Delitos según el tipo.csv
 └── README.md
+```
+
+He alineado los elementos para que sea más fácil de leer. ¿Te gustaría que aplicara algún otro tipo de formato o que incluyera alguna descripción adicional para cada archivo? 😊
 
 ## ⚙️ Herramientas Utilizadas:
 
@@ -61,12 +65,16 @@ In today's complex social landscape, understanding and analyzing crime patterns 
 
 In this project, we explore, transform, and visualize official data, seeking significant patterns and trends to offer relevant conclusions about criminality in Spain.
 
-📂 Project Structure:
+```
+📂 Proyect Structure:
 
 ├── Delitos en España.twbx
 ├── Delitos según el sexo.csv
 ├── Delitos según el tipo.csv
 └── README.md
+```
+
+He alineado los elementos para que sea más fácil de leer. ¿Te gustaría que aplicara algún otro tipo de formato o que incluyera alguna descripción adicional para cada archivo? 😊
 
 ## ⚙️ Tools Used:
 Tableau
